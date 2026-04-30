@@ -1,0 +1,22 @@
+MACRO REGIME MEMO
+Week of 2026-04-29
+============================================================
+
+REGIME: Late Cycle
+
+INDICATOR SNAPSHOT:
+  Yield Curve (10Y-2Y): 0.5%
+  CPI YoY:              3.32%
+  Unemployment:         4.3%
+  Payrolls MoM:         178k
+  Indust. Production:   -0.542%
+
+============================================================
+
+## MACRO REGIME ASSESSMENT: LATE CYCLE DYNAMICS FIRMLY ESTABLISHED
+
+The economy sits decisively in late cycle, with 4 of 6 regime indicators signaling this phase. The 10Y-2Y curve has re-steepened to +50bp, indicating markets have moved past inversion fears but growth momentum is maturing. CPI at 3.32% remains above the Fed's tolerance threshold despite recent disinflation progress, while the labor market shows resilience with unemployment at 4.3% (down 0.1pp over three months) and payrolls adding 178k. The critical divergence appears in industrial production, which contracted 0.54% MoM—a clear signal that manufacturing is feeling the cumulative weight of elevated rates while services and employment remain supported. This bifurcation between consumer-facing strength and industrial weakness is classic late cycle behavior, where monetary policy works with extended lags and creates fault lines across sectors.
+
+Late cycle positioning demands precision over aggression. Equities should tilt defensively toward quality, large-cap bias, and sectors with pricing power—historically, consumer staples, healthcare, and utilities outperform as growth decelerates while inflation persists. Duration exposure warrants cautious extension here; the re-steepened curve creates value in the 7-10 year belly, particularly as the next Fed move remains data-dependent rather than directionally certain. Credit spreads face compression limits—investment grade credit remains viable given the still-low 4.3% unemployment rate, but high yield and leveraged credit deserve material underweights as refinancing risk builds and covenant-lite structures face first real stress tests since 2020. This is the environment to harvest carry, not chase beta.
+
+Three regime-shift catalysts demand monitoring over the next 90 days. First, unemployment crossing 4.5% with negative payroll revisions below 100k would trigger Sahm Rule recession indicators and force immediate contraction repricing. Second, core CPI reaccelerating above 3.5% or services inflation proving sticky above 4% would resurrect stagflation concerns and eliminate Fed optionality for cuts. Third, the 10Y-2Y curve flattening back inside 25bp while the 3-month/10Y inverts would signal bond markets pricing imminent slowdown. Watch the December 6th jobs report, January 15th CPI print, and any Fed speakers addressing the "last mile" inflation narrative—these will either validate the soft landing thesis or expose it as wishful thinking.

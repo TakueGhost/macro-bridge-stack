@@ -1,0 +1,128 @@
+{
+  "JPM": [
+    {
+      "date": "2026-04-24",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "GS": [
+    {
+      "date": "2026-04-20",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "BAC": [
+    {
+      "date": "2026-04-15",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.2141,
+        "forward_looking_ratio": 0.0331,
+        "specificity_score": 0.1547,
+        "composite_confidence": 0.3687
+      }
+    }
+  ],
+  "CAT": [
+    {
+      "date": "2026-04-13",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "HON": [
+    {
+      "date": "2026-04-23",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "MMM": [
+    {
+      "date": "2026-04-21",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "XOM": [
+    {
+      "date": "2026-04-08",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "CVX": [
+    {
+      "date": "2026-04-09",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.0,
+        "forward_looking_ratio": 0.0,
+        "specificity_score": 0.0,
+        "composite_confidence": 0.332
+      }
+    }
+  ],
+  "SLB": [
+    {
+      "date": "2026-04-24",
+      "scores": {
+        "sentiment_positive": 0.33,
+        "sentiment_negative": 0.33,
+        "sentiment_neutral": 0.34,
+        "uncertainty_index": 0.1118,
+        "forward_looking_ratio": 0.1422,
+        "specificity_score": 0.1517,
+        "composite_confidence": 0.3903
+      }
+    }
+  ]
+}
