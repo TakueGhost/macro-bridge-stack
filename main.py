@@ -71,7 +71,7 @@ Confirmed state   : {indicators['confirmed_state_80_20_rule'].upper()}
 """
 
     filename = f"regime_memo_{date.today()}.txt"
-    with open(filename, "w") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write(output)
 
     print(output)
