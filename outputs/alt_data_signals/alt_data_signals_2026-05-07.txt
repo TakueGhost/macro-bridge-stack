@@ -1,0 +1,601 @@
+AGENT 3 -- ALTERNATIVE DATA SIGNALS
+Generated: 2026-05-07 04:17
+Macro Regime: Expansion
+Companies scanned: 73
+Signals flagged: 16
+======================================================================
+
+JPM -- JPMorgan Chase & Co
+Sector: Financials | Conviction: 8.25/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, sec_insider, contracts, warn_ca, osha
+
+JPMorgan Chase is experiencing a confluence of regulatory pressures and operational stress that contradicts the current expansion environment. Federal Register filings show new restrictions on interchange fees and non-interest charges alongside tightened lending rules under Regulation B, while WARN notices in San Francisco indicate workforce reductions and concurrent insider selling activity suggests management concerns about near-term headwinds. The regulatory tightening directly threatens fee income streams that have been key margin drivers, and layoffs during an expansion signal defensive positioning inconsistent with healthy growth. This creates a short opportunity as the market likely underprices regulatory earnings compression and management's apparent lack of confidence in sustaining current profitability levels.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 48 item(s)
+    2026-04-29  Order Preempting the Illinois Interchange Fee Prohibition Act
+    https://www.federalregister.gov/documents/2026/04/29/2026-08341/order-preempting-the-illinois-interchange-fee-prohibition-act
+    2026-04-29  National Bank Non-Interest Charges and Fees
+    https://www.federalregister.gov/documents/2026/04/29/2026-08328/national-bank-non-interest-charges-and-fees
+    2026-04-22  Equal Credit Opportunity Act (Regulation B)
+    https://www.federalregister.gov/documents/2026/04/22/2026-07804/equal-credit-opportunity-act-regulation-b
+
+  [SEC_INSIDER] 57 item(s)
+    2026-05-05  4
+    https://www.sec.gov/Archives/edgar/data/19617/000122520826004967/xslF345X06/doc4.xml
+    2026-05-05  4
+    https://www.sec.gov/Archives/edgar/data/19617/000122520826004966/xslF345X06/doc4.xml
+    2026-05-05  4
+    https://www.sec.gov/Archives/edgar/data/19617/000122520826004965/xslF345X06/doc4.xml
+
+  [CONTRACTS] 1 item(s)
+      COMMERCIAL BANKING SERVICES FOR THE CENTERS FOR MEDICARE & MEDICAID SERVICES: MEDICARE ADMINISTRATIV
+    https://www.usaspending.gov/award/75FCMC25FJ082
+
+  [WARN_CA] 2 item(s)
+    San Francisco County  
+    San Francisco County  
+
+  [OSHA] 3 item(s)
+    2026-04-29  Order Preempting the Illinois Interchange Fee Prohibition Act
+    https://www.federalregister.gov/documents/2026/04/29/2026-08341/order-preempting-the-illinois-interchange-fee-prohibition-act
+    2026-02-27  Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Lea
+    https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
+    2026-04-22  Equal Credit Opportunity Act (Regulation B)
+    https://www.federalregister.gov/documents/2026/04/22/2026-07804/equal-credit-opportunity-act-regulation-b
+
+CVX -- Chevron Corp
+Sector: Energy | Conviction: 8.25/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, sec_insider, warn_ca, trade_data, osha
+
+Multiple data sources indicate operational and regulatory headwinds building for CVX despite the expansion macro backdrop. Federal Register activity shows renewed Venezuela sanctions complexity alongside oil pipeline regulatory reviews, while SEC insider filings show elevated activity suggesting management awareness of material changes. California WARN notices in Contra Costa and Kern Counties point to potential workforce reductions in core refining and production regions, and OSHA filings flag tightening environmental compliance requirements around accidental release prevention.
+
+These signals collectively suggest margin pressure and operational constraints emerging in CVX's domestic operations at a time when the company should be benefiting from economic expansion. The contradiction indicates potential underperformance ahead. This supports a tactical short position or reducing long exposure.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 57 item(s)
+    2026-05-07  Publication of Venezuela Sanctions Regulations Web General Licenses 47, 48, 49, and 50
+    https://www.federalregister.gov/documents/2026/05/07/2026-09090/publication-of-venezuela-sanctions-regulations-web-general-licenses-47-48-49-and-50
+    2026-04-29  USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill
+    https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill
+    2026-04-28  Five-Year Review of the Oil Pipeline Index
+    https://www.federalregister.gov/documents/2026/04/28/2026-08264/five-year-review-of-the-oil-pipeline-index
+
+  [SEC_INSIDER] 25 item(s)
+    2026-04-01  4
+    https://www.sec.gov/Archives/edgar/data/93410/000009341026000105/xslF345X06/form4.xml
+    2026-03-10  4
+    https://www.sec.gov/Archives/edgar/data/93410/000009341026000101/xslF345X05/form4.xml
+    2026-03-04  4
+    https://www.sec.gov/Archives/edgar/data/93410/000009341026000097/xslF345X05/form4.xml
+
+  [WARN_CA] 2 item(s)
+    Contra Costa County  
+    Kern County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 11 item(s)
+    2026-02-24  Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common
+    https://www.federalregister.gov/documents/2026/02/24/2026-03633/accidental-release-prevention-requirements-risk-management-programs-under-the-clean-air-act-common
+    2026-04-29  USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill
+    https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill
+    2026-04-20  Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition 
+    https://www.federalregister.gov/documents/2026/04/20/2026-07666/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition
+
+SLB -- SLB (Schlumberger NV)
+Sector: Energy | Conviction: 8.25/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, sec_insider, contracts, warn_ca, trade_data
+
+Our alternative data sources are flagging defensive signals that contradict the current expansion regime, suggesting SLB faces mounting operational headwinds. Federal Register filings show anti-dumping investigations on forged steel fluid end blocks from four countries including China and heightened Arctic drilling restrictions, while multiple SEC Form 4 filings on the same day indicate coordinated insider activity. Government contract data reveals maintenance-only activity rather than new project awards, and California WARN notices point to potential workforce reductions in the sector. These signals collectively indicate a defensive posture inconsistent with expansion dynamics. The trade creates an event-driven short opportunity as the market appears mispriced relative to emerging regulatory constraints and subdued capital deployment activity.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 38 item(s)
+    2026-04-15  Forged Steel Fluid End Blocks From the People's Republic of China, the Federal Republic of Germany, 
+    https://www.federalregister.gov/documents/2026/04/15/2026-07315/forged-steel-fluid-end-blocks-from-the-peoples-republic-of-china-the-federal-republic-of-germany
+    2026-03-09  Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Sl
+    https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north
+    2026-05-05  National Flood Insurance Program (NFIP); Assistance to Private Sector Property Insurers, Notice of F
+    https://www.federalregister.gov/documents/2026/05/05/2026-08728/national-flood-insurance-program-nfip-assistance-to-private-sector-property-insurers-notice-of-fy
+
+  [SEC_INSIDER] 20 item(s)
+    2026-05-01  4
+    https://www.sec.gov/Archives/edgar/data/87347/000008734726000110/xslF345X06/form4.xml
+    2026-05-01  4
+    https://www.sec.gov/Archives/edgar/data/87347/000008734726000108/xslF345X06/form4.xml
+    2026-05-01  4
+    https://www.sec.gov/Archives/edgar/data/87347/000008734726000103/xslF345X06/form4.xml
+
+  [CONTRACTS] 4 item(s)
+      SIS GIT MAINTENANCE FY24
+    https://www.usaspending.gov/award/140M0123F0033
+      SIS GIT MAINTENANCE FY23
+    https://www.usaspending.gov/award/140M0122F0018
+      TECHLOG MODULES AND MAINTENANCE
+    https://www.usaspending.gov/award/140M0122F0037
+
+  [WARN_CA] 1 item(s)
+    Marin County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+JCS -- Communications Systems Inc
+Sector: Technology | Conviction: 8.25/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, contracts, warn_ca, trade_data, osha
+
+The data shows a confluence of federal activity around security infrastructure, government contracts for enforcement operations, and potential labor market stress in California, yet these signals appear disconnected from Communications Systems Inc's core business in connectivity solutions for enterprise and government markets. The elevated conviction score against contradictory macro expansion suggests either algorithmic noise or misattribution of sector-relevant contracts that JCS is unlikely to meaningfully capture given its $30M market cap and limited federal procurement footprint. The WARN notices and OSHA filings further muddy any clear operational thesis. This reads as a false positive with insufficient company-specific catalysts despite the high conviction score. Pass on initiating a position until clearer fundamental alignment emerges.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 40 item(s)
+    2026-05-06  Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility
+    https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility
+    2026-05-06  Renewal of Department of War Federal Advisory Committee-U.S. Strategic Command Strategic Advisory Gr
+    https://www.federalregister.gov/documents/2026/05/06/2026-08784/renewal-of-department-of-war-federal-advisory-committee-us-strategic-command-strategic-advisory
+    2026-05-04  Sentencing Guidelines for United States Courts
+    https://www.federalregister.gov/documents/2026/05/04/2026-08647/sentencing-guidelines-for-united-states-courts
+
+  [CONTRACTS] 10 item(s)
+      THIS CALL ORDER OBTAINS DEDICATED AND ON-DEMAND CHARTERED FLIGHT SERVICES FOR ENFORCEMENT AND REMOVA
+    https://www.usaspending.gov/award/70CDCR26FC0000001
+      HSPD-12 FOLLOW-ON AWARD
+    https://www.usaspending.gov/award/72MC1024N00014
+      AIR CHARTER EMERGENCY SERVICES (ACES)
+    https://www.usaspending.gov/award/89233124CNA000369
+
+  [WARN_CA] 2 item(s)
+    San Bernardino County  
+    San Bernardino County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 25 item(s)
+    2026-04-28  Open Fires in Marine Terminals
+    https://www.federalregister.gov/documents/2026/04/28/2026-08260/open-fires-in-marine-terminals
+    2026-04-17  House Falls in Marine Terminals
+    https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals
+    2026-04-14  Differential Pay for Prescribed Wildland Fire Activities
+    https://www.federalregister.gov/documents/2026/04/14/2026-07198/differential-pay-for-prescribed-wildland-fire-activities
+
+BAC -- Bank of America Corp
+Sector: Financials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, sec_insider, warn_ca, osha
+
+Multiple data sources are flagging elevated regulatory activity and potential workforce disruption signals for BAC, including repeated SEC insider filings, California WARN notices concentrated in Los Angeles County, and increased federal register activity around sanctions and reporting requirements. This contradicts the current expansion regime where financials typically benefit from credit growth and benign regulatory environments. For BAC, heightened regulatory scrutiny combined with potential headcount reduction signals suggests the bank may be bracing for a deteriorating credit environment or regulatory pressure that the broader market has not yet priced in. The investment implication is short or reduce exposure, as these defensive postures typically precede earnings disappointments and multiple compression in the financial sector.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 47 item(s)
+    2026-05-07  Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States Nati
+    https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states
+    2026-05-07  Semiannual Reporting
+    https://www.federalregister.gov/documents/2026/05/07/2026-09095/semiannual-reporting
+    2026-05-07  Privacy Act of 1974; System of Records
+    https://www.federalregister.gov/documents/2026/05/07/2026-09081/privacy-act-of-1974-system-of-records
+
+  [SEC_INSIDER] 69 item(s)
+    2026-05-06  4
+    https://www.sec.gov/Archives/edgar/data/70858/000007085826000284/xslF345X06/form4.xml
+    2026-05-06  4
+    https://www.sec.gov/Archives/edgar/data/70858/000007085826000283/xslF345X06/form4.xml
+    2026-05-06  4
+    https://www.sec.gov/Archives/edgar/data/70858/000007085826000282/xslF345X06/form4.xml
+
+  [WARN_CA] 26 item(s)
+    Los Angeles County  
+    Los Angeles County  
+    Los Angeles County  
+
+  [OSHA] 22 item(s)
+    2026-04-14  Uniform Allowances
+    https://www.federalregister.gov/documents/2026/04/14/2026-07245/uniform-allowances
+    2026-04-03  National Environmental Policy Act
+    https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act
+    2026-05-07  Semiannual Reporting
+    https://www.federalregister.gov/documents/2026/05/07/2026-09095/semiannual-reporting
+
+CMC -- Commercial Metals Company
+Sector: Industrials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+Federal Register data shows multiple antidumping duty orders on steel rebar from Algeria, Mexico, and Turkey between April 13-29, 2026, creating substantial trade protection for domestic steel producers like CMC. Concurrent WARN notices in California and new OSHA chemical/environmental regulations suggest operational headwinds and potential capacity constraints across the sector. The combination of import protection and regulatory tightening should benefit CMC's domestic rebar production margins despite broader expansion-phase signals that would typically indicate robust construction demand and looser trade conditions. This contradiction suggests CMC may outperform in a decelerating environment where trade barriers offset demand weakness. The signal is long-biased with event-driven catalysts around tariff implementation and competitor capacity reductions.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 25 item(s)
+    2026-04-29  Steel Concrete Reinforcing Bar From Algeria: Antidumping Duty Order
+    https://www.federalregister.gov/documents/2026/04/29/2026-08284/steel-concrete-reinforcing-bar-from-algeria-antidumping-duty-order
+    2026-04-16  Certain Mobile Access Equipment and Subassemblies Thereof From the People's Republic of China: Final
+    https://www.federalregister.gov/documents/2026/04/16/2026-07462/certain-mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china-final
+    2026-04-13  Steel Concrete Reinforcing Bar From Mexico and the Republic of Türkiye: Continuation of Antidumping 
+    https://www.federalregister.gov/documents/2026/04/13/2026-07109/steel-concrete-reinforcing-bar-from-mexico-and-the-republic-of-trkiye-continuation-of-antidumping
+
+  [WARN_CA] 1 item(s)
+    Solano County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 24 item(s)
+    2026-04-24  Significant New Use Rules on Certain Chemical Substances (26-2)
+    https://www.federalregister.gov/documents/2026/04/24/2026-08012/significant-new-use-rules-on-certain-chemical-substances-26-2
+    2026-04-03  National Environmental Policy Act
+    https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act
+    2026-04-01  National Emission Standards for Hazardous Air Pollutants: Chemical Manufacturing Area Sources Techno
+    https://www.federalregister.gov/documents/2026/04/01/2026-06304/national-emission-standards-for-hazardous-air-pollutants-chemical-manufacturing-area-sources
+
+MRCY -- Mercury Systems Inc
+Sector: Defence and Aerospace | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+The data shows minimal defense-specific activity despite an expansion macro regime, with only a routine arms sales notification in Federal Register and no meaningful WARN layoff notices for MRCY's California operations. Trade data and OSHA filings reveal nothing material to defense electronics manufacturing. This silence is conspicuous given that defense contractors typically see accelerated procurement and contract awards during economic expansions when federal budgets expand and defense modernization programs accelerate. For Mercury Systems, a company dependent on defense electronics revenue growth, the absence of positive catalysts suggests demand headwinds or program delays that contradict broader economic strength. This presents a short opportunity as the market may be overestimating MRCY's ability to capture defense spending momentum in the current cycle.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 29 item(s)
+    2026-05-07  Arms Sales Notification
+    https://www.federalregister.gov/documents/2026/05/07/2026-09000/arms-sales-notification
+    2026-05-01  Reimagining and Improving Student Education-Federal Student Loan Program Final Regulations
+    https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations
+    2026-04-14  Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and
+    https://www.federalregister.gov/documents/2026/04/14/2026-07203/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and
+
+  [WARN_CA] 1 item(s)
+    Alameda County  
+
+  [TRADE_DATA] 2 item(s)
+    2025-11  
+    2025-11  
+
+  [OSHA] 8 item(s)
+    2026-04-01  National Emission Standards for Hazardous Air Pollutants: Chemical Manufacturing Area Sources Techno
+    https://www.federalregister.gov/documents/2026/04/01/2026-06304/national-emission-standards-for-hazardous-air-pollutants-chemical-manufacturing-area-sources
+    2026-04-23  Harmful and Potentially Harmful Constituents in Tobacco Products and Tobacco Smoke; Established List
+    https://www.federalregister.gov/documents/2026/04/23/2026-07910/harmful-and-potentially-harmful-constituents-in-tobacco-products-and-tobacco-smoke-established-list
+    2026-05-06  Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility
+    https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility
+
+SWBI -- Smith and Wesson Brands Inc
+Sector: Defence and Aerospace | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+Federal Register activity shows three significant firearms-related regulatory changes scheduled for May 2026, including modifications to ATF form requirements, stabilizing brace rules, and records retention periods. These regulatory shifts typically signal a deregulatory environment favorable to firearms manufacturers and sales. This contradicts the current expansion regime where firearms demand traditionally softens as consumer anxiety decreases and discretionary spending shifts away from defensive purchases. For SWBI, regulatory tailwinds may partially offset cyclical demand headwinds, creating a more complex trading environment than typical expansion dynamics would suggest. The signal presents an event-driven opportunity around the May 2026 implementation dates, with potential for a tactical long position if regulatory changes materially ease compliance burdens or expand addressable markets for pistol-braced firearms.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 32 item(s)
+    2026-05-06  Selecting Biological Sex on ATF Forms
+    https://www.federalregister.gov/documents/2026/05/06/2026-08932/selecting-biological-sex-on-atf-forms
+    2026-05-06  Removing Factoring Criteria for Firearms With Attached “Stabilizing Braces”
+    https://www.federalregister.gov/documents/2026/05/06/2026-08930/removing-factoring-criteria-for-firearms-with-attached-stabilizing-braces
+    2026-05-06  Firearm Records Retention Periods
+    https://www.federalregister.gov/documents/2026/05/06/2026-08929/firearm-records-retention-periods
+
+  [WARN_CA] 5 item(s)
+    Marin County  
+    Napa County  
+    Orange County  
+
+  [TRADE_DATA] 2 item(s)
+    2025-11  
+    2025-11  
+
+  [OSHA] 16 item(s)
+    2026-05-07  Semiannual Reporting
+    https://www.federalregister.gov/documents/2026/05/07/2026-09095/semiannual-reporting
+    2026-04-23  Joint Employer Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant 
+    https://www.federalregister.gov/documents/2026/04/23/2026-07959/joint-employer-status-under-the-fair-labor-standards-act-family-and-medical-leave-act-and-migrant
+    2026-04-17  Methoxyfenozide; Pesticide Tolerances
+    https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances
+
+CMC -- Commercial Metals Company
+Sector: Materials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+Multiple regulatory headwinds are emerging that contradict the broader expansion macro environment. Federal Register data shows renewed antidumping enforcement on steel rebar from Algeria, Mexico, and Turkey, while OSHA filings indicate tightening environmental standards for chemical manufacturing and emissions. Trade data from November 2025 suggests potential import disruptions, coinciding with California WARN notices indicating labor market stress in CMC's operating regions.
+
+CMC, as a major domestic steel rebar producer and recycler, faces margin pressure from stricter environmental compliance costs even as trade protection theoretically benefits domestic producers. The regulatory burden may offset any competitive advantages from import restrictions.
+
+This presents a tactical short opportunity. CMC's cost structure will deteriorate faster than pricing power materializes, particularly if the economy weakens from expansion.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 28 item(s)
+    2026-04-29  Steel Concrete Reinforcing Bar From Algeria: Antidumping Duty Order
+    https://www.federalregister.gov/documents/2026/04/29/2026-08284/steel-concrete-reinforcing-bar-from-algeria-antidumping-duty-order
+    2026-04-16  Certain Mobile Access Equipment and Subassemblies Thereof From the People's Republic of China: Final
+    https://www.federalregister.gov/documents/2026/04/16/2026-07462/certain-mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china-final
+    2026-04-13  Steel Concrete Reinforcing Bar From Mexico and the Republic of Türkiye: Continuation of Antidumping 
+    https://www.federalregister.gov/documents/2026/04/13/2026-07109/steel-concrete-reinforcing-bar-from-mexico-and-the-republic-of-trkiye-continuation-of-antidumping
+
+  [WARN_CA] 1 item(s)
+    Solano County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 24 item(s)
+    2026-04-24  Significant New Use Rules on Certain Chemical Substances (26-2)
+    https://www.federalregister.gov/documents/2026/04/24/2026-08012/significant-new-use-rules-on-certain-chemical-substances-26-2
+    2026-04-03  National Environmental Policy Act
+    https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act
+    2026-04-01  National Emission Standards for Hazardous Air Pollutants: Chemical Manufacturing Area Sources Techno
+    https://www.federalregister.gov/documents/2026/04/01/2026-06304/national-emission-standards-for-hazardous-air-pollutants-chemical-manufacturing-area-sources
+
+ZEUS -- Olympic Steel Inc
+Sector: Materials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+Federal Register data shows intensifying antidumping and countervailing duty reviews on steel imports from multiple countries, including Thailand and South Korea, signaling a protectionist shift in trade policy. This matters for ZEUS because reduced foreign competition typically supports domestic steel pricing power and margin expansion, yet this contradicts the expansion regime where demand strength should already be driving favorable conditions. The contradiction suggests either demand is weakening faster than trade policy can offset, or ZEUS faces company-specific headwinds despite sector tailwinds. California WARN notices point to regional economic stress that could pressure volumes. This is a short-term short with event-driven overtones given the mixed signals between policy support and demand deterioration.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 35 item(s)
+    2026-05-04  Initiation of Antidumping and Countervailing Duty Administrative Reviews
+    https://www.federalregister.gov/documents/2026/05/04/2026-08639/initiation-of-antidumping-and-countervailing-duty-administrative-reviews
+    2026-04-27  Circular Welded Carbon Steel Pipes and Tubes From Thailand: Preliminary Results and Rescission, in P
+    https://www.federalregister.gov/documents/2026/04/27/2026-08128/circular-welded-carbon-steel-pipes-and-tubes-from-thailand-preliminary-results-and-rescission-in
+    2026-04-16  Carbon and Alloy Steel Cut-to-Length Plate from the Republic of Korea: Final Results of Antidumping 
+    https://www.federalregister.gov/documents/2026/04/16/2026-07467/carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-final-results-of-antidumping
+
+  [WARN_CA] 4 item(s)
+    Los Angeles County  
+    Los Angeles County  
+    Los Angeles County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 2 item(s)
+    2026-02-18  United States v. Reddy Ice LLC, et al. Proposed Final Judgment and Competitive Impact Statement
+    https://www.federalregister.gov/documents/2026/02/18/2026-03102/united-states-v-reddy-ice-llc-et-al-proposed-final-judgment-and-competitive-impact-statement
+    2026-02-19  Endangered and Threatened Wildlife and Plants; Notice of 12-Month Finding on a Petition To List the 
+    https://www.federalregister.gov/documents/2026/02/19/2026-03292/endangered-and-threatened-wildlife-and-plants-notice-of-12-month-finding-on-a-petition-to-list-the
+
+AMVAC -- American Vanguard Corp
+Sector: Materials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+The data shows heightened regulatory activity around pesticides and chemical substances through multiple Federal Register filings, alongside empty WARN notices in key California agricultural counties and blank trade data entries that suggest potential data suppression or reporting gaps. For AMVAC, a specialty chemical and pesticide manufacturer, this regulatory intensification likely signals tightening approval pathways and compliance costs at a time when normal expansion conditions would favor agricultural input demand. The contradiction between macro expansion and these company-specific headwinds suggests margin compression and potential market share losses as AMVAC navigates stricter oversight. The investment implication is a tactical short position, as regulatory friction will likely pressure earnings even as the broader economy supports agricultural end markets, creating a disconnect between sector tailwinds and company-specific execution risks.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 45 item(s)
+    2026-05-06  Pesticide Experimental Use Permit; Receipt of Application; Comment Request (December 2025)
+    https://www.federalregister.gov/documents/2026/05/06/2026-08808/pesticide-experimental-use-permit-receipt-of-application-comment-request-december-2025
+    2026-04-23  Agency Information Collection Activities; Submission to the Office of Management and Budget for Revi
+    https://www.federalregister.gov/documents/2026/04/23/2026-07939/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+    2026-04-22  Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides (Hydrogen Cy
+    https://www.federalregister.gov/documents/2026/04/22/2026-07794/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-hydrogen
+
+  [WARN_CA] 4 item(s)
+    Napa County  
+    Orange County  
+    Santa Barbara County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 30 item(s)
+    2026-04-28  Open Fires in Marine Terminals
+    https://www.federalregister.gov/documents/2026/04/28/2026-08260/open-fires-in-marine-terminals
+    2026-04-28  Allowing for the Electronic Posting of Reportable Injuries and Occupational Illnesses
+    https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses
+    2026-04-24  Significant New Use Rules on Certain Chemical Substances (26-2)
+    https://www.federalregister.gov/documents/2026/04/24/2026-08012/significant-new-use-rules-on-certain-chemical-substances-26-2
+
+AMSC -- American Superconductor Corp
+Sector: Materials | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, warn_ca, trade_data, osha
+
+The data shows increasing regulatory activity around environmental rollbacks and advanced reactor frameworks, while WARN notices in California and generic trade/OSHA filings suggest underlying economic stress contradicting the expansion regime. For AMSC, a superconductor manufacturer serving wind energy and grid infrastructure markets, the rescission of greenhouse gas regulations signals a potential policy headwind for renewable energy demand that drives their core business. The advanced reactor framework may provide some offset through grid modernization opportunities, but the California employment warnings in key end-markets suggest demand deterioration is already materializing. This creates a short opportunity as AMSC's revenue tied to clean energy incentives faces compression while broader economic weakness emerges beneath surface expansion indicators.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 6 item(s)
+    2026-04-03  National Environmental Policy Act
+    https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act
+    2026-03-30  Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors
+    https://www.federalregister.gov/documents/2026/03/30/2026-06048/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors
+    2026-02-18  Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Stan
+    https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission
+
+  [WARN_CA] 6 item(s)
+    Napa County  
+    Orange County  
+    Santa Barbara County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 30 item(s)
+    2026-04-28  Open Fires in Marine Terminals
+    https://www.federalregister.gov/documents/2026/04/28/2026-08260/open-fires-in-marine-terminals
+    2026-04-28  Allowing for the Electronic Posting of Reportable Injuries and Occupational Illnesses
+    https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses
+    2026-04-24  Significant New Use Rules on Certain Chemical Substances (26-2)
+    https://www.federalregister.gov/documents/2026/04/24/2026-08012/significant-new-use-rules-on-certain-chemical-substances-26-2
+
+OSIS -- OSI Systems Inc
+Sector: Technology | Conviction: 7.0/10
+Flags: REGIME CONTRADICTION
+Sources: federal_register, contracts, warn_ca, trade_data
+
+OSI Systems is showing signs of operational stress despite the expansionary macro environment. The company is securing contracts for inspection equipment maintenance and multi-energy portals through its American Science and Engineering subsidiary, indicating steady demand for its security detection products. However, multiple WARN Act notices across California counties signal potential workforce reductions or facility closures, which contradicts the typical expansion-phase pattern of capacity additions. The divergence between contract wins and apparent workforce rationalization suggests margin pressure or operational restructuring at a time when peers should be scaling. This creates a short opportunity, as the market may not have fully priced in the disconnect between OSI's operational reality and the broader economic tailwind it should be capturing.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 26 item(s)
+    2026-05-06  Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility
+    https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility
+    2026-03-24  Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 22 Species in the
+    https://www.federalregister.gov/documents/2026/03/24/2026-05678/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-22-species-in-the
+    2026-02-23  Employment Authorization Reform for Asylum Applicants
+    https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants
+
+  [CONTRACTS] 19 item(s)
+      CWMD OBAA CPFF CONTRACT AWARD TO AMERICAN SCIENCE AND ENGINEERING IN RESPONSE TO TOPIC SOLICITATION 
+    https://www.usaspending.gov/award/70RWMD23C00000001
+      THIS DELIVERY ORDER IS FOR MULTI - ENERGY PORTALS.
+    https://www.usaspending.gov/award/70B03C21F00001132
+      NON-INTRUSIVE INSPECTION DETECTION EQUIPMENT - MAINTENANCE AND REPAIR
+    https://www.usaspending.gov/award/70B04C24C00000102
+
+  [WARN_CA] 3 item(s)
+    Alameda County  
+    Alameda County  
+    San Diego County  
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+CAT -- Caterpillar Inc
+Sector: Industrials | Conviction: 6.25/10
+Sources: federal_register, sec_insider, contracts, trade_data, osha
+
+CAT is showing mixed operational signals with moderate conviction. Government contract activity indicates ongoing maintenance and equipment demand across defense and infrastructure projects, including generator commissioning in Jordan and excavator deployment at a National Wildlife Refuge. However, multiple insider Form 4 filings in early May suggest potential share sales or option exercises by executives, which often precedes periods of uncertainty. The federal register entries around environmental regulations and air quality standards in Pennsylvania may signal increased compliance costs for industrial operations. This pattern suggests a cautious near-term outlook despite steady contract flow. The investment implication is to hold or reduce position size given the 6.25 conviction score and insider activity, particularly if portfolio concentration in industrials is already elevated.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 45 item(s)
+    2026-03-24  Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 22 Species in the
+    https://www.federalregister.gov/documents/2026/03/24/2026-05678/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-22-species-in-the
+    2026-03-18  Hazardous Materials: Notice of Actions on Special Permits
+    https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits
+    2026-02-06  Air Plan Approval; Pennsylvania; Proposed Revision to Philadelphia Gas Works, Richmond Plant Reasona
+    https://www.federalregister.gov/documents/2026/02/06/2026-02381/air-plan-approval-pennsylvania-proposed-revision-to-philadelphia-gas-works-richmond-plant-reasonably
+
+  [SEC_INSIDER] 50 item(s)
+    2026-05-06  4
+    https://www.sec.gov/Archives/edgar/data/18230/000110465926056437/xslF345X06/tm2613823-2_4seq1.xml
+    2026-05-06  4
+    https://www.sec.gov/Archives/edgar/data/18230/000110465926056435/xslF345X06/tm2613823-1_4seq1.xml
+    2026-05-05  4
+    https://www.sec.gov/Archives/edgar/data/18230/000110465926055795/xslF345X06/tm2613646-1_4seq1.xml
+
+  [CONTRACTS] 11 item(s)
+      PREVENTATIVE MAINTENANCE AND EXTENDED WARRANTY AGREEMENT FOR THE SOLAR TURBINES COGENERATION SYSTEM 
+    https://www.usaspending.gov/award/47PM0625C0001
+      JORDAN GENERATORS AND INCOUNTRY COMMISSIONING
+    https://www.usaspending.gov/award/47QSWC24F0088
+      NJ-WALLKILL RIV NWR-CAT 309 EXCAVATOR
+    https://www.usaspending.gov/award/140FS326F0089
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 2 item(s)
+    2026-03-24  Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 22 Species in the
+    https://www.federalregister.gov/documents/2026/03/24/2026-05678/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-22-species-in-the
+    2026-02-06  Air Plan Approval; Pennsylvania; Proposed Revision to Philadelphia Gas Works, Richmond Plant Reasona
+    https://www.federalregister.gov/documents/2026/02/06/2026-02381/air-plan-approval-pennsylvania-proposed-revision-to-philadelphia-gas-works-richmond-plant-reasonably
+
+HON -- Honeywell International Inc
+Sector: Industrials | Conviction: 6.25/10
+Sources: federal_register, sec_insider, contracts, trade_data, osha
+
+Honeywell is showing increased regulatory engagement across aerospace and environmental compliance, with multiple Federal Register entries related to Boeing aircraft systems and ozone protection substitutes, alongside government contract activity and insider Form 4 filings in late April 2026. The aerospace regulatory approvals suggest Honeywell is advancing aviation equipment certifications that could unlock revenue from Boeing's 757 fleet upgrades, while the environmental regulatory activity positions the company favorably in the refrigerant substitutes market as stricter ozone regulations take effect. The confluence of contract wins, regulatory progress, and insider activity during an expansion regime indicates operational momentum. This presents a long opportunity with 6-8 month horizon as regulatory approvals translate into commercial deployment and revenue recognition.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 51 item(s)
+    2026-04-16  Special Conditions: Honeywell International Inc., Boeing Model 757-200, 757-200PF, 757-200CB, and 75
+    https://www.federalregister.gov/documents/2026/04/16/2026-07484/special-conditions-honeywell-international-inc-boeing-model-757-200-757-200pf-757-200cb-and-757-300
+    2026-04-06  Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Pol
+    https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives
+    2026-03-19  Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes
+    https://www.federalregister.gov/documents/2026/03/19/2026-05364/airworthiness-directives-pilatus-aircraft-ltd-airplanes
+
+  [SEC_INSIDER] 49 item(s)
+    2026-04-27  4
+    https://www.sec.gov/Archives/edgar/data/773840/000077384026000059/xslF345X06/wk-form4_1777321003.xml
+    2026-04-16  4
+    https://www.sec.gov/Archives/edgar/data/773840/000077384026000042/xslF345X06/wk-form4_1776378358.xml
+    2026-04-16  4
+    https://www.sec.gov/Archives/edgar/data/773840/000122773326000003/xslF345X06/wk-form4_1776378340.xml
+
+  [CONTRACTS] 26 item(s)
+      IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SAND
+    https://www.usaspending.gov/award/DENA0003525
+      ARCHITECTURE AND ENGINEERING SERVICES TO THE ENROUTE FACILITIES MODERNIZATION PROGRAM.
+    https://www.usaspending.gov/award/697DCK19F00084
+      NEW CONTRACT NUMBER FOR FINANCIAL SYSTEMS PURPOSES ONLY.  ORIGINAL CONTRACT TERMS AND CONDITIONS REM
+    https://www.usaspending.gov/award/47PM0721F0093
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 2 item(s)
+    2026-02-24  Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common
+    https://www.federalregister.gov/documents/2026/02/24/2026-03633/accidental-release-prevention-requirements-risk-management-programs-under-the-clean-air-act-common
+    2026-04-06  Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Pol
+    https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives
+
+MMM -- 3M Company
+Sector: Industrials | Conviction: 6.25/10
+Sources: federal_register, sec_insider, contracts, trade_data, osha
+
+3M is seeing a modest uptick in government contract activity across its safety equipment and software licensing products, with multiple SCBA and security decal orders appearing in recent procurement data. SEC insider filings show three Form 4 transactions on the same day in early May, suggesting potential internal positioning changes worth monitoring. The signals lack strong magnitude given the moderate conviction score and relatively routine nature of the contracts, while the federal register and OSHA flags appear tangentially related at best. This represents a potential long opportunity for tactical exposure during the expansion phase, though the weak signal strength suggests position sizing should remain conservative until contract volumes or insider activity accelerates meaningfully.
+----------------------------------------------------------------------
+
+  [FEDERAL_REGISTER] 52 item(s)
+    2026-05-07  365 Retail Markets and Cantaloupe; Analysis of Proposed Agreement Containing Consent Orders To Aid P
+    https://www.federalregister.gov/documents/2026/05/07/2026-09021/365-retail-markets-and-cantaloupe-analysis-of-proposed-agreement-containing-consent-orders-to-aid
+    2026-04-29  Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters
+    https://www.federalregister.gov/documents/2026/04/29/2026-08324/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters
+    2026-04-28  Duke Energy Carolinas, LLC; Catawba Nuclear Station, Units 1 and 2; Independent Spent Fuel Storage I
+    https://www.federalregister.gov/documents/2026/04/28/2026-08219/duke-energy-carolinas-llc-catawba-nuclear-station-units-1-and-2-independent-spent-fuel-storage
+
+  [SEC_INSIDER] 29 item(s)
+    2026-05-04  4
+    https://www.sec.gov/Archives/edgar/data/66740/000006674026000184/xslF345X06/form4.xml
+    2026-05-04  4
+    https://www.sec.gov/Archives/edgar/data/66740/000006674026000182/xslF345X06/form4.xml
+    2026-05-04  4
+    https://www.sec.gov/Archives/edgar/data/66740/000006674026000180/xslF345X06/form4.xml
+
+  [CONTRACTS] 12 item(s)
+      3M CODEFINDER SOFTWARE LICENSES CONTRACT AWARD
+    https://www.usaspending.gov/award/75FCMC22C0031
+      SAFETY SCBA'S FOR SER
+    https://www.usaspending.gov/award/15B30026P00000004
+      CALL ORDER FOR OFMS DIPLOMATIC VEHICLE DECAL STICKERS  OFF BPA#19AQMM23A0181
+    https://www.usaspending.gov/award/19AQMM23F7378
+
+  [TRADE_DATA] 3 item(s)
+    2025-11  
+    2025-11  
+    2025-11  
+
+  [OSHA] 5 item(s)
+    2026-04-28  Duke Energy Carolinas, LLC; Catawba Nuclear Station, Units 1 and 2; Independent Spent Fuel Storage I
+    https://www.federalregister.gov/documents/2026/04/28/2026-08219/duke-energy-carolinas-llc-catawba-nuclear-station-units-1-and-2-independent-spent-fuel-storage
+    2026-04-21  Duke Energy Carolinas, LLC; Catawba Nuclear Station, Units 1 and 2; Independent Spent Fuel Storage I
+    https://www.federalregister.gov/documents/2026/04/21/2026-07742/duke-energy-carolinas-llc-catawba-nuclear-station-units-1-and-2-independent-spent-fuel-storage
+    2026-04-14  Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and
+    https://www.federalregister.gov/documents/2026/04/14/2026-07203/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and

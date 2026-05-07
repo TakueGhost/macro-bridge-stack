@@ -1,0 +1,28 @@
+MACRO REGIME MEMO
+Week of 2026-04-30
+============================================================
+
+REGIME: Late Cycle
+
+INDICATOR SNAPSHOT:
+  Yield Curve (10Y-2Y): 0.5%
+  CPI YoY:              3.32%
+  Unemployment:         4.3%
+  Payrolls MoM:         178k
+  Indust. Production:   -0.542%
+
+============================================================
+
+# MACRO REGIME ASSESSMENT: LATE CYCLE CONFIRMATION
+
+**Current Regime Analysis**
+
+We are operating in a Late Cycle regime, confirmed by 4 of 6 committee votes. The macro configuration is unambiguous: the 10Y-2Y curve has re-steepened to +50bps following previous inversion, CPI remains elevated at 3.32% (well above target), unemployment sits at 4.3% with modest improvement (-0.1pp over three months), and payrolls growth has moderated to 178k. The industrial production decline of -0.54% MoM signals manufacturing weakness even as labor markets hold firm—a classic late-cycle divergence where services demand sustains employment while goods production rolls over. This combination of re-steepening curves, sticky inflation above 3%, and decelerating but still-positive growth indicators places us squarely in the late expansion phase where the economy runs hot but momentum is fading.
+
+**Asset Allocation Implications**
+
+Late Cycle regimes demand defensive positioning with tactical carry opportunities. In equities, migrate toward quality factors, large-cap defensives, and sectors with pricing power—healthcare, utilities, and consumer staples outperform while cyclicals and small-caps face multiple compression. Duration exposure should be extended here; the curve re-steepening signals Fed cuts are coming, making 10Y+ Treasuries attractive with 200-300bps of price appreciation potential through the next downturn. Credit spreads historically widen 50-75bps in late cycle before recession hits, making this an explicit fade on high-yield and leveraged credit; investment-grade spreads offer better risk-reward, but even there, move up in quality. Commodities lose momentum except for gold, which performs as both an inflation hedge and flight-to-quality asset.
+
+**Regime Shift Triggers**
+
+Three data points will dictate regime transition in the next 90 days. First, unemployment rising above 4.5% (a 0.2pp increase from current) would trigger Sahm Rule recessionary signals and force immediate shift to Contraction—watch monthly NFP releases with 150k as the critical threshold below which labor market deterioration accelerates. Second, CPI declining below 2.8% would indicate successful disinflation and potential Fed pivot, supporting an unlikely return to Expansion; conversely, CPI re-accelerating above 3.7% resurrects Stagflation risks and kills the soft-landing narrative. Third, the yield curve inverting again (10Y-2Y back to negative) would signal recession expectations have reasserted themselves; monitor the curve daily with -10bps as the break point. ISM Manufacturing below 46 for two consecutive months would provide confirmation of any unemployment-driven regime shift.

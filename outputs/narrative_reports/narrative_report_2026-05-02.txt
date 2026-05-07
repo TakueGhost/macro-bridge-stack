@@ -1,0 +1,92 @@
+NARRATIVE DRIFT REPORT
+Week of 2026-05-02
+Regime Context: Contraction
+============================================================
+
+# INSTITUTIONAL NARRATIVE DRIFT REPORT
+**Macro Regime: Contraction | Analysis Date: Current Quarter**
+
+---
+
+## SECTION 1 — REGIME ALIGNMENT SUMMARY
+
+**Regime-Aligned Names (2 of 9):**
+
+Only **CVX** (Forward-Looking Ratio: 0.111) and **SLB** (Forward-Looking Ratio: 0.142) meet the minimum Contraction regime threshold of 0.10 forward guidance density. In economic contraction, management teams capable of articulating specific forward operational plans signal control over cost structures and visibility into demand trajectories. These two energy names are behaving correctly.
+
+**Regime Contradictions (7 of 9):**
+
+The remaining universe—**JPM, GS, BAC, CAT, HON, MMM, XOM**—exhibits forward guidance ratios between 0.00 and 0.08, materially below the 0.10 Contraction floor. This is not caution. This is narrative abdication.
+
+**Why This Matters:**
+
+In Contraction regimes, companies that go dark on forward guidance are either:
+1. **Experiencing demand deterioration faster than they're willing to articulate publicly**, or
+2. **Operationally disoriented**, unable to model their own businesses 2-3 quarters out
+
+Both interpretations are negative. The 78% regime contradiction rate (7 of 9 names) suggests either incorrect regime classification or systematic management credibility erosion across Financials and Industrials. Given cross-sector breadth, the latter is more probable.
+
+The bifurcation is clear: **Energy has forward visibility. Financials and Industrials do not.**
+
+---
+
+## SECTION 2 — NOTABLE DRIFT SIGNALS
+
+**Signal 1: The Silence Cascade Across Financials**
+
+**JPM, GS**: Zero forward-looking commentary (0.00 ratio), zero uncertainty acknowledgment (0.00 index), zero specificity (0.00 score). These are the two most systemically important U.S. banks, and their earnings commentary contains *no measurable forward operational content*. 
+
+**BAC** marginally better at 0.033 forward ratio, but still 67% below regime threshold. Uncertainty Index of 0.214 confirms management is flagging risk factors but *refusing to quantify scenarios or provide guardrails*. This is the worst combination: acknowledging problems without committing to solutions.
+
+**Drift Magnitude**: QoQ confidence flat (+0.0000) across all three names despite macro regime in Contraction. This stability is artificial—management is maintaining baseline sentiment language while evacuating substantive guidance. **Red flag: Confidence scores should be declining or specificity should be rising. Neither is occurring.**
+
+**Signal 2: Industrial Guidance Collapse**
+
+**CAT** shows the highest Industrial composite confidence (0.389) but Forward-Looking Ratio of 0.077 still misses threshold by 23%. More critically, Specificity Score of 0.211 is the highest in Industrials, yet management *still* cannot commit to forward guidance above 0.08. This implies:
+- The specific commentary CAT *is* providing relates to backward-looking results or vague strategic positioning
+- Forward demand visibility has deteriorated to the point where even a best-in-class operator cannot model the business
+
+**HON and MMM**: Complete narrative whiteout. Zero forward guidance, zero uncertainty flags, zero specificity. For multi-billion dollar industrial conglomerates to provide *no* directional commentary in Contraction is a screaming sell signal.
+
+**Signal 3: Energy's Relative Clarity**
+
+**CVX and SLB** are the *only* names providing forward guidance above threshold. CVX Uncertainty Index of 0.250 (highest in sample) paired with 0.111 forward ratio shows management acknowledging commodity price volatility *while still committing to operational forecasts*. This is textbook Contraction-regime communication.
+
+SLB Forward-Looking Ratio of 0.142 (highest in sample) with moderate uncertainty (0.112) indicates oilfield services demand visibility remains intact despite macro softness. **This is the most bullish signal in the dataset.**
+
+---
+
+## SECTION 3 — INVESTMENT IMPLICATIONS
+
+### FINANCIALS: UNDERWEIGHT TO SELL
+
+**JPM, GS: SELL**
+- Complete narrative evacuation in Contraction regime is disqualifying
+- If management cannot articulate loan growth, NIM trajectory, or credit provisions 2 quarters forward, the risk-reward is asymmetrically negative
+- Historical precedent: Banks that go dark on guidance in Contraction are typically managing to undisclosed asset quality deterioration or trading book exposure
+- **Action**: Exit JPM and GS. These are broken narratives.
+
+**BAC: UNDERWEIGHT**
+- Marginal forward guidance (0.033) and elevated uncertainty (0.214) without specificity (0.155) suggests management is aware of problems but lacks control
+- Better than JPM/GS, but still 67% below regime threshold
+- **Action**: Reduce to minimum weight. One-quarter monitoring period to see if guidance normalizes.
+
+### INDUSTRIALS: SECTOR AVOID
+
+**CAT: UNDERWEIGHT**
+- Highest quality name in a broken sector, but 0.077 forward ratio in Contraction is insufficient
+- Elevated specificity (0.211) without forward guidance implies management is providing detailed commentary on *past* performance while demand visibility has collapsed
+- **Action**: Underweight despite quality. Demand uncertainty overrides execution capability.
+
+**HON, MMM: DO NOT OWN**
+- Zero forward content is disqualifying for capital allocation
+- These are portfolio dead weight in Contraction—no visibility, no catalyst, no edge
+- **Action**: Zero weight until narrative normalization (Forward-Looking Ratio >0.10 for two consecutive quarters)
+
+### ENERGY: OVERWEIGHT WITH CONVICTION
+
+**SLB: HIGH-CONVICTION LONG**
+- Forward-Looking Ratio of 0.142 is 42% above regime threshold—*the only name in the dataset with material guidance surplus*
+- Composite Confidence of 0.390 (second-highest in sample) combined with forward visibility suggests oilfield services activity is decoupling from broader Industrial weakness
+- Specificity Score of 0.152 confirms granular operational commentary
+- **Thesis**: SLB has visibility into drilled-but-uncompleted well completions and international E&P budgets that won't materialize in macro data for 2

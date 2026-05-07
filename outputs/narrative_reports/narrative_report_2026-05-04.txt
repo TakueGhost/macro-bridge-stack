@@ -1,0 +1,84 @@
+NARRATIVE DRIFT REPORT
+Week of 2026-05-04
+Regime Context: Contraction
+============================================================
+
+# INSTITUTIONAL NARRATIVE DRIFT REPORT
+## Macro Regime: Contraction | Analysis Date: Current Quarter
+
+---
+
+## SECTION 1 — REGIME ALIGNMENT SUMMARY
+
+**Regime-Aligned Names (2 of 9):**
+
+Only **CVX** (Forward-Looking Ratio: 0.111) and **SLB** (Forward-Looking Ratio: 0.142) meet the minimum Contraction regime threshold of 0.10 forward guidance ratio. In contractionary environments, management teams typically increase forward guidance density as they attempt to stabilize investor expectations amid deteriorating conditions. These two energy names are behaving as expected—providing explicit guidance on capital allocation, production targets, and margin expectations.
+
+**Regime Contradictions (7 of 9):**
+
+The remaining universe—**JPM, GS, BAC, CAT, HON, MMM, and XOM**—exhibits forward guidance ratios catastrophically below the 0.10 floor. Four names (JPM, GS, HON, MMM, XOM) register **zero forward guidance**, indicating management teams are either strategically opaque or genuinely uncertain about near-term visibility. This is the wrong posture for Contraction. 
+
+**Why This Matters:**
+
+When 78% of a portfolio exhibits regime contradiction during Contraction, it signals one of three conditions:
+
+1. **Management teams are behind the curve** on deterioration and haven't yet shifted to defensive guidance frameworks
+2. **The macro regime classification is leading fundamentals** by 1-2 quarters (early-cycle mismatch)
+3. **These sectors are experiencing idiosyncratic strength** that decouples them from the broader contraction
+
+The bifurcation between Energy (compliant) and Financials/Industrials (non-compliant) suggests sector-specific dynamics are dominating macro regime alignment. Energy management teams are battle-tested from cyclical volatility and maintain guidance discipline. Financials and Industrials are either enjoying lag effects from prior expansion or are about to guide down sharply.
+
+---
+
+## SECTION 2 — NOTABLE DRIFT SIGNALS
+
+**Signal 1: Universal Zero Drift Across All Names**
+
+Every company shows QoQ confidence drift of **+0.0000**—a statistical impossibility in genuine corporate communication analysis. This indicates either:
+- Data pipeline failure in drift calculation methodology
+- All companies released identical narrative structures quarter-over-quarter (implausible)
+- This represents **first quarter of coverage** with no prior baseline
+
+Assuming this is initial baseline establishment, the lack of historical drift data renders traditional leading indicator analysis inoperative. We are flying blind on trajectory.
+
+**Signal 2: The JPM/GS/HON/MMM/XOM "Zero Signal Cluster"**
+
+Five companies post **identical metrics across all dimensions**: Composite Confidence 0.332, Sentiment +0.33/-0.33, and zeros across Uncertainty, Forward-Looking, and Specificity indices. This uniformity is a **red flag for data quality** or suggests these transcripts contained insufficient analyzable content. 
+
+For systemically important names like JPM and GS to register zero forward guidance during Contraction is either a catastrophic management communication failure or a measurement error. Given these institutions provide extensive investor materials, **measurement error is more probable than genuine opacity**.
+
+**Signal 3: BAC vs. CAT Relative Positioning**
+
+Within non-compliant names, **BAC** (Confidence: 0.3687, Specificity: 0.1547) and **CAT** (Confidence: 0.3894, Specificity: 0.2113) demonstrate the highest composite scores outside Energy. Both show meaningful Uncertainty Index readings (BAC: 0.214, CAT: 0.079) indicating management acknowledged risk factors explicitly. 
+
+CAT's combination of higher confidence with lower uncertainty versus BAC suggests **Industrial cycle optimism is elevated relative to fundamental risk**, while BAC's higher uncertainty with lower confidence indicates **Financial sector caution is more calibrated**. This divergence matters: CAT management may be early innings of guidance disappointment cycle, while BAC is positioned defensively.
+
+---
+
+## SECTION 3 — INVESTMENT IMPLICATIONS
+
+**FINANCIALS — Neutral Weight, Prefer BAC over JPM/GS**
+
+**Action:** Within sector, overweight **BAC** relative to JPM/GS.
+
+**Rationale:** BAC is the only money-center bank demonstrating narrative substance (Specificity: 0.1547, Uncertainty: 0.214). Management is acknowledging risks while maintaining moderate confidence—the appropriate Contraction posture. JPM and GS present as black boxes with zero forward guidance. In Contraction, opacity creates valuation compression. Until JPM/GS management re-establishes communication discipline, they trade at sentiment discount.
+
+BAC's 0.033 Forward-Looking Ratio, while below regime floor, is measurable. The stock is a relative trade, not an absolute long. Await guidance normalization before moving to overweight.
+
+**INDUSTRIALS — Underweight, Avoid CAT**
+
+**Action:** Underweight sector. Within sector, actively avoid **CAT**.
+
+**Rationale:** CAT posts the highest confidence (0.3894) among Industrials while operating with Forward-Looking Ratio of 0.077—just below regime compliance. This is **confidence without guidance substance**. Management optimism disconnected from explicit forward targets is a classic late-expansion/early-contraction trap. 
+
+The Specificity Score of 0.2113 (highest among Industrials) combined with minimal uncertainty acknowledgment (0.079) suggests management is providing detailed commentary on current operations but avoiding commitment on future trajectory. This is **precision without conviction**—the narrative structure of a coming disappointment.
+
+HON and MMM's zero-signal profiles render them uninvestable pending data clarity. In Contraction, uncertainty defaults to underweight.
+
+**ENERGY — Overweight, Conviction Long SLB > CVX**
+
+**Action:** Overweight sector. Preference order: **SLB > CVX** > XOM.
+
+**Rationale:** Energy is the **only sector demonstrating regime alignment**. Both compliant names warrant overweight, but **SLB** (Forward-Looking: 0.142, Confidence: 0.3903) edges CVX (Forward-Looking: 0.111, Confidence: 0.3878) on guidance density and composite confidence.
+
+SLB's superiority stems from **higher forward guidance ratio with lower uncertainty** (0.112 vs. CVX 0.250). In Contraction, companies
